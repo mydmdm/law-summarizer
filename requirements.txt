@@ -1,0 +1,5 @@
+langchain
+llama-index
+tiktoken 
+docx2txt
+jupyter
